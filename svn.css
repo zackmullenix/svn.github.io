@@ -153,6 +153,18 @@ h2{
 
   }
 
+    .mission_box2{
+    background-color:#F7931E;
+    width:100%;
+    height:100px;
+    padding-top:12px;
+    margin-top:-70px;
+    margin-bottom:100px;
+    position:relative;
+
+
+  }
+
   .statement{
   	color:#fff;
   	font-family: 'Roboto', sans-serif;
@@ -163,6 +175,18 @@ h2{
     margin-top:-1em;
     padding-left:10px;
     padding-right:10px;
+
+  }
+    .statement2{
+    color:#fff;
+    font-family: 'Roboto', sans-serif;
+    font-size:1em;
+    height:10em;
+    margin-top:-1em;
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:50px;
+    text-align:center;
 
   }
 
@@ -752,6 +776,19 @@ width:100%;
     opacity:.5;
 }
 /*end jason*/
+
+
+
+.footer{
+  background-color:#C12D23;
+  height:50px;
+  width:auto;
+margin-top:100px;
+text-align:center;
+color:#fff;
+  font-family: 'Roboto', sans-serif;
+  padding-top:35px;
+}
 
 /*end mq for team layout*/
 
